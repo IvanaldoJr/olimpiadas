@@ -1,4 +1,4 @@
-##  **README Descontraído: Busca Rápida de Atletas Brasileiros** 
+##  **Busca Rápida de Atletas Brasileiros** 
 
 **O que faz essa aplicação?**
 
