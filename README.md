@@ -37,7 +37,3 @@ Se tiver alguma dúvida, pode abrir uma issue no GitHub ou me mandar um e-mail.
 **Vamos juntos torcer pelo Brasil! 🇧🇷**
 
 **#AtletasDoBrasil #ImersãoAluraGemini #JavaScript #HTML #CSS**
-
-**Observação:** Para personalizar ainda mais este README, você pode adicionar capturas de tela da aplicação funcionando, criar um GIF animado ou até mesmo um pequeno vídeo explicativo. 
-
-**Lembre-se:** O objetivo de um README é ser claro, conciso e informativo, mas também pode ser divertido e mostrar a sua personalidade como desenvolvedor. 
